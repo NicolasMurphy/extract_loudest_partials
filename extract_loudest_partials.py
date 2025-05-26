@@ -38,5 +38,5 @@ def extract_loudest_partials(audio_path, num_partials=15):
 
 # Example usage
 if __name__ == "__main__":
-    input_file = "466519__tarane468__001-kankles-c3.wav"  # Replace with your audio file path
+    input_file = "your-audio-file.wav"  # Replace with your audio file path
     extract_loudest_partials(input_file)
